@@ -17,9 +17,9 @@
 
 ### AI Search Engines (GEO)
 
-- [Google AI Mode](https://blog.google/products/search/) - Google's AI-powered search experience that triggers on ~14% of shopping queries. [Optimization guide](https://www.vozai.net/en/seo/multi-ai-search-seo-unified-strategy/) | [Native checkout guide](https://www.vozai.net/en/seo/google-ai-mode-native-checkout-guide/) | [AI Shopping changes](https://www.vozai.net/en/seo/google-ai-shopping-ecommerce-seo/) | [Gemini + Circle to Search + 50B SKUs feed audit](https://www.vozai.net/en/seo/google-ai-mode-gemini-circle-search-50b-graph/)
+- [Google AI Mode](https://blog.google/products/search/) - Google's AI-powered search experience that triggers on ~14% of shopping queries. [Optimization guide](https://www.vozai.net/en/seo/multi-ai-search-seo-unified-strategy/) | [Native checkout guide](https://www.vozai.net/en/seo/google-ai-mode-native-checkout-guide/) | [AI Shopping changes](https://www.vozai.net/en/seo/google-ai-shopping-ecommerce-seo/) | [Gemini + Circle to Search + 50B SKUs feed audit](https://www.vozai.net/en/seo/google-ai-mode-gemini-circle-search-50b-graph/) | [Multimodal search box & Search Agents (I/O 2026)](https://www.vozai.net/en/seo/google-io-2026-multimodal-search-box-agents/)
 - [Google Merchant Center](https://merchants.google.com/) - Product feed hub for Google Shopping and AI Mode. [Conversational Attributes optimization for AI Mode](https://www.vozai.net/en/seo/google-merchant-center-conversational-attributes/) | [AI performance insights & share of voice (GML 2026)](https://www.vozai.net/en/seo/google-merchant-center-ai-performance-insights-share-of-voice/)
-- [Perplexity Shopping](https://www.perplexity.ai/) - AI search engine with direct price comparison and product cards. [Optimization guide](https://www.vozai.net/en/seo/perplexity-shopping-optimization-guide/) | [Try-On GEO playbook](https://www.vozai.net/en/seo/perplexity-try-on-apparel-geo/) | [Comet vs Amazon merchant playbook](https://www.vozai.net/en/seo/perplexity-comet-amazon-ninth-circuit-merchant-playbook/)
+- [Perplexity Shopping](https://www.perplexity.ai/) - AI search engine with direct price comparison and product cards. [Optimization guide](https://www.vozai.net/en/seo/perplexity-shopping-optimization-guide/) | [Try-On GEO playbook](https://www.vozai.net/en/seo/perplexity-try-on-apparel-geo/) | [Comet vs Amazon merchant playbook](https://www.vozai.net/en/seo/perplexity-comet-amazon-ninth-circuit-merchant-playbook/) | [Getting products into AI search results](https://www.vozai.net/en/seo/perplexity-shopping-ecommerce-guide/)
 - [Amazon Rufus](https://www.amazon.com/) - Amazon's in-app AI shopping assistant, used by 250M+ shoppers. [Optimization guide](https://www.vozai.net/en/seo/amazon-rufus-optimization-guide/)
 - [Amazon Alexa for Shopping](https://www.amazon.com/) - Agentic assistant that replaced Rufus (May 2026), buys on the shopper's behalf incl. cross-retailer "Buy for Me". [Merchant visibility playbook](https://www.vozai.net/en/seo/amazon-alexa-for-shopping-agent-merchant-playbook/)
 - [ChatGPT Search](https://chat.openai.com/) - OpenAI's conversational search with product citations. [How to get cited](https://www.vozai.net/en/seo/geo-for-ai-search-citations/) | [ChatGPT shopping pivot to discovery](https://www.vozai.net/en/seo/chatgpt-shopping-pivot-product-discovery-dtc-visibility/) | [GPT-5.5 Instant default & product visibility](https://www.vozai.net/en/seo/gpt-5-5-instant-chatgpt-shopping-visibility/)
@@ -33,6 +33,10 @@
 - [AI keyword research guide](https://www.vozai.net/en/seo/ai-keyword-research-guide/) - AI-powered keyword research workflow for e-commerce sellers
 - [AI meta description generator](https://www.vozai.net/en/seo/ai-meta-description-generator/) - Generate optimized meta descriptions at scale using AI
 - [Fix over-optimized SEO content](https://www.vozai.net/en/seo/seo-content-optimization-with-ai/) - How to fix AI-generated content that stuffs keywords
+- [Sub-$100 SEO toolkit for a solo store](https://www.vozai.net/en/tool-comparisons/budget-seo-tools-under-100-solo-store-2026/) - SE Ranking vs Keysearch vs Mangools vs LowFruits, matched to the job
+- [Free technical-SEO audit stack](https://www.vozai.net/en/tool-comparisons/free-technical-seo-audit-stack-indie-sites/) - GSC + Ahrefs Webmaster Tools + Screaming Frog for indie sites
+- [Programmatic SEO content tools for solo builders](https://www.vozai.net/en/tool-comparisons/programmatic-seo-content-tools-solo-dtc-2026/) - Koala vs Byword vs Frase vs Surfer
+- [Reddit monitoring tools (GummySearch alternatives)](https://www.vozai.net/en/tool-comparisons/gummysearch-alternatives-reddit-monitoring-tools-2026/) - F5Bot vs Syften vs Awario for finding customers
 
 ### GEO (Generative Engine Optimization)
 
@@ -45,16 +49,19 @@
 - [Microsoft Copilot Checkout for Shopify](https://www.vozai.net/en/seo/microsoft-copilot-checkout-shopify-geo/) - A GEO optimization playbook for Copilot's checkout flow
 - [Rich product schema for AI search](https://www.vozai.net/en/seo/product-schema-rich-attributes-ai-search/) - GTIN, attributes, and shipping markup that get you cited
 - [Schema-content mismatch penalty](https://www.vozai.net/en/seo/schema-content-mismatch-ai-search-penalty/) - Why schema-content mismatches are the new AI search penalty in 2026
+- [Reddit & community UGC for AI citations](https://www.vozai.net/en/seo/reddit-community-ugc-ai-citations-geo/) - Why community word-of-mouth drives ~4x higher AI citation odds
+- [Google's official AI optimization guide](https://www.vozai.net/en/seo/google-ai-optimization-guide-schema-reset/) - Why schema alone is not the ticket to AI Overviews
+- [Cloudflare blocks AI crawlers by default](https://www.vozai.net/en/seo/cloudflare-ai-crawler-block-geo-visibility/) - Audit crawler rules so AI search can still see your store
 
 ## Ad Copy & Creative
 
 ### Platform-Specific Ad Tools
 
-- [Meta Advantage+](https://www.facebook.com/business/) - Automated ad campaigns with AI creative optimization. [Advantage+ guide](https://www.vozai.net/en/ads-copy/meta-advantage-plus-automated-ads/) | [Image-to-video](https://www.vozai.net/en/ads-copy/meta-advantage-plus-image-to-video-ads/) | [Andromeda targeting](https://www.vozai.net/en/ads-copy/meta-andromeda-ai-ad-targeting/) | [AI Connectors (MCP)](https://www.vozai.net/en/ads-copy/meta-ads-ai-connectors-mcp/) | [2026 Shoptalk updates](https://www.vozai.net/en/ads-copy/meta-advantage-shopping-2026-shoptalk-updates/) | [AI voiceover & subtitles](https://www.vozai.net/en/ads-copy/meta-ai-voiceover-multilingual-video-ads/)
-- [Google AI Max](https://ads.google.com/) - Google's AI-powered campaign type replacing DSA. [AI Max + PMax A/B testing](https://www.vozai.net/en/ads-copy/google-ai-max-pmax-ab-testing/) | [DSA migration guide](https://www.vozai.net/en/seo/google-dsa-retirement-ai-max-migration/) | [Shopping campaigns setup](https://www.vozai.net/en/ads-copy/google-ai-max-shopping-campaigns-guide/) | [AI Mode shopping ads](https://www.vozai.net/en/ads-copy/google-ai-mode-shopping-ads/) | [Ask Advisor unified AI agent](https://www.vozai.net/en/ads-copy/google-ask-advisor-unified-ads-agent-2026/)
-- [TikTok Shop Ads](https://seller.tiktok.com/) - AI-powered ad tools for TikTok commerce. [GMV Max guide](https://www.vozai.net/en/ads-copy/tiktok-shop-gmv-max-guide/) | [AI video maker](https://www.vozai.net/en/ads-copy/tiktok-shop-ai-listing-video-maker/)
+- [Meta Advantage+](https://www.facebook.com/business/) - Automated ad campaigns with AI creative optimization. [Advantage+ guide](https://www.vozai.net/en/ads-copy/meta-advantage-plus-automated-ads/) | [Image-to-video](https://www.vozai.net/en/ads-copy/meta-advantage-plus-image-to-video-ads/) | [Andromeda targeting](https://www.vozai.net/en/ads-copy/meta-andromeda-ai-ad-targeting/) | [AI Connectors (MCP)](https://www.vozai.net/en/ads-copy/meta-ads-ai-connectors-mcp/) | [2026 Shoptalk updates](https://www.vozai.net/en/ads-copy/meta-advantage-shopping-2026-shoptalk-updates/) | [AI voiceover & subtitles](https://www.vozai.net/en/ads-copy/meta-ai-voiceover-multilingual-video-ads/) | [25-conversion threshold & V25 API sunset](https://www.vozai.net/en/ads-copy/meta-advantage-plus-25-conversions-v25-api/) | [730-day purchase audiences & AI assistant](https://www.vozai.net/en/ads-copy/meta-730-day-purchase-audiences-ai-assistant/)
+- [Google AI Max](https://ads.google.com/) - Google's AI-powered campaign type replacing DSA. [AI Max + PMax A/B testing](https://www.vozai.net/en/ads-copy/google-ai-max-pmax-ab-testing/) | [DSA migration guide](https://www.vozai.net/en/seo/google-dsa-retirement-ai-max-migration/) | [Shopping campaigns setup](https://www.vozai.net/en/ads-copy/google-ai-max-shopping-campaigns-guide/) | [AI Mode shopping ads](https://www.vozai.net/en/ads-copy/google-ai-mode-shopping-ads/) | [Ask Advisor unified AI agent](https://www.vozai.net/en/ads-copy/google-ask-advisor-unified-ads-agent-2026/) | [Conversational Discovery ads in AI Mode](https://www.vozai.net/en/ads-copy/google-ai-mode-conversational-discovery-ads/) | [Asset Studio creative (Veo 3.1 + Nano Banana)](https://www.vozai.net/en/ads-copy/google-asset-studio-veo-nano-banana-ad-creative/)
+- [TikTok Shop Ads](https://seller.tiktok.com/) - AI-powered ad tools for TikTok commerce. [GMV Max guide](https://www.vozai.net/en/ads-copy/tiktok-shop-gmv-max-guide/) | [AI video maker](https://www.vozai.net/en/ads-copy/tiktok-shop-ai-listing-video-maker/) | [Search Ads 2026 guide](https://www.vozai.net/en/ads-copy/tiktok-search-ads-2026-guide/) | [TikTok World 2026: GMV Max Pro & Search Hubs](https://www.vozai.net/en/ads-copy/tiktok-world-2026-gmv-max-pro-search-hubs/) | [Ads MCP server for AI agents](https://www.vozai.net/en/ads-copy/tiktok-ads-mcp-server-ai-agent-management/)
 - [ChatGPT Ads](https://chat.openai.com/) - Emerging ad platform inside ChatGPT conversations. [Self-serve guide](https://www.vozai.net/en/ads-copy/chatgpt-ads-self-serve-guide/) | [Product Spotlight](https://www.vozai.net/en/ads-copy/chatgpt-ads-product-spotlight-ecommerce/) | [What it means for e-commerce](https://www.vozai.net/en/ads-copy/chatgpt-ads-ecommerce-opportunity/)
-- [Amazon Ads](https://advertising.amazon.com/) - Amazon's advertising platform. [AI video generator](https://www.vozai.net/en/ads-copy/amazon-ads-ai-video-generator-guide/) | [DSP omnichannel metrics](https://www.vozai.net/en/ads-copy/amazon-dsp-omnichannel-category-metrics/) | [AI agent policy 2026](https://www.vozai.net/en/ads-copy/amazon-ai-agent-policy-2026-compliance/)
+- [Amazon Ads](https://advertising.amazon.com/) - Amazon's advertising platform. [AI video generator](https://www.vozai.net/en/ads-copy/amazon-ads-ai-video-generator-guide/) | [DSP omnichannel metrics](https://www.vozai.net/en/ads-copy/amazon-dsp-omnichannel-category-metrics/) | [AI agent policy 2026](https://www.vozai.net/en/ads-copy/amazon-ai-agent-policy-2026-compliance/) | [Upfront 2026 video generator & OLV](https://www.vozai.net/en/ads-copy/amazon-upfront-2026-video-generator-olv/)
 - [Pinterest Performance+](https://business.pinterest.com/) - Pinterest's AI-powered ad campaigns. [Catalog sales & Promote a Pin playbook](https://www.vozai.net/en/ads-copy/pinterest-performance-plus-catalog-promote-pin/)
 - [Walmart Connect](https://www.walmartconnect.com/) - Walmart's advertising platform with AI assistant. [AI Advertising Assistant playbook](https://www.vozai.net/en/ads-copy/walmart-connect-ai-advertising-assistant/)
 - [Smartly.io](https://www.smartly.io/) - AI creative suite for scaling ad production across Meta, Google, and TikTok. [Multi-platform guide](https://www.vozai.net/en/ads-copy/smartly-ai-creative-suite-multi-platform-ads/)
@@ -79,7 +86,7 @@
 
 ### Email Platforms
 
-- [Klaviyo](https://www.klaviyo.com/) - E-commerce email/SMS platform with AI-powered segmentation and automation. [Klaviyo Composer AI](https://www.vozai.net/en/email-crm/klaviyo-composer-ai-agent-campaigns/) | [Spring 2026 updates](https://www.vozai.net/en/email-crm/klaviyo-spring-2026-rcs-ai-audience/) | [Klaviyo vs Mailchimp vs Omnisend](https://www.vozai.net/en/tool-comparisons/ai-email-marketing-tools/) | [Klaviyo × Anthropic Claude agentic workflows](https://www.vozai.net/en/email-crm/klaviyo-anthropic-claude-agentic-email-workflows/) | [Agent Guidance: guardrails for autonomous agents](https://www.vozai.net/en/email-crm/klaviyo-agent-guidance-brand-control-autonomous-crm/)
+- [Klaviyo](https://www.klaviyo.com/) - E-commerce email/SMS platform with AI-powered segmentation and automation. [Klaviyo Composer AI](https://www.vozai.net/en/email-crm/klaviyo-composer-ai-agent-campaigns/) | [Spring 2026 updates](https://www.vozai.net/en/email-crm/klaviyo-spring-2026-rcs-ai-audience/) | [Klaviyo vs Mailchimp vs Omnisend](https://www.vozai.net/en/tool-comparisons/ai-email-marketing-tools/) | [Klaviyo × Anthropic Claude agentic workflows](https://www.vozai.net/en/email-crm/klaviyo-anthropic-claude-agentic-email-workflows/) | [Agent Guidance: guardrails for autonomous agents](https://www.vozai.net/en/email-crm/klaviyo-agent-guidance-brand-control-autonomous-crm/) | [Customer Agent omnichannel setup](https://www.vozai.net/en/email-crm/klaviyo-customer-agent-omnichannel-retail-skills/) | [Klaviyo vs Brevo 2026](https://www.vozai.net/en/email-crm/klaviyo-vs-brevo-2026/)
 - [Omnisend](https://www.omnisend.com/) - E-commerce marketing automation. [Klaviyo vs Omnisend vs Brevo](https://www.vozai.net/en/tool-comparisons/klaviyo-omnisend-brevo-ai-email-platforms-2026/) | [AI Segment Builder natural language guide](https://www.vozai.net/en/email-crm/omnisend-ai-segment-builder-natural-language/)
 - [Brevo](https://www.brevo.com/) - Email, SMS, and chat marketing platform. [2026 email platform comparison](https://www.vozai.net/en/tool-comparisons/klaviyo-omnisend-brevo-ai-email-platforms-2026/)
 - [Mailchimp](https://mailchimp.com/) - Email marketing platform with AI features. [Klaviyo vs Mailchimp AI](https://www.vozai.net/en/tool-comparisons/klaviyo-vs-mailchimp-ai-features/)
@@ -139,6 +146,7 @@
 - [GPT-5.4 vs Claude 4.6 vs Gemini 3.1 for e-commerce](https://www.vozai.net/en/tool-comparisons/gpt5-vs-claude4-vs-gemini3-ecommerce/) - Head-to-head benchmark for e-commerce tasks
 - [2026 AI marketing stack](https://www.vozai.net/en/tool-comparisons/ai-ecommerce-marketing-stack-2026/) - Complete AI tool stack for e-commerce marketing
 - [Claude Code weekly limit +50% sprint plan](https://www.vozai.net/en/tool-comparisons/claude-code-weekly-limit-boost-ecommerce-workflows/) - 8-week batch task list for cross-border DTC teams (May 13 to July 13, 2026)
+- [Claude for Small Business vs ChatGPT/Gemini/Copilot](https://www.vozai.net/en/tool-comparisons/anthropic-claude-small-business-ecommerce/) - How Anthropic's small-business launch stacks up
 
 ## Product Photography & Video
 
@@ -150,6 +158,7 @@
 - [Amazon Dynamic Canvas](https://sellercentral.amazon.com/) - Free AI visual workspace inside Amazon Seller Central. [Tutorial](https://www.vozai.net/en/ads-copy/amazon-dynamic-canvas-ai-listing-visuals/)
 - [Shopify Tinker](https://www.shopify.com/) - Shopify's free AI creative suite. [Tinker vs Canva comparison](https://www.vozai.net/en/tool-comparisons/shopify-tinker-ai-creative-suite/)
 - [AI product photography for e-commerce](https://www.vozai.net/en/tool-comparisons/ai-product-photography-ecommerce/) - Cut costs and scale faster with AI-generated product photos
+- [AI image generator comparison 2026](https://www.vozai.net/en/tool-comparisons/ai-image-generators-ecommerce-comparison/) - Midjourney vs Firefly vs DALL-E for e-commerce
 
 ### AI Video & UGC Tools
 
@@ -160,6 +169,7 @@
 - [TikTok AI Fashion Video Maker](https://seller.tiktok.com/) - Generate shoppable videos from a single product image. [Tutorial](https://www.vozai.net/en/ads-copy/tiktok-shop-ai-listing-video-maker/)
 - [AI UGC video ads](https://www.vozai.net/en/ads-copy/ai-ugc-video-ads-ecommerce/) - Skip the creator, keep the conversions with AI-generated UGC
 - [AI virtual hosts for TikTok Shop](https://www.vozai.net/en/ads-copy/ai-virtual-host-tiktok-shop-livestream/) - Zero-barrier AI livestream selling for cross-border brands
+- [TikTok Symphony vs Meta vs Amazon video ads](https://www.vozai.net/en/tool-comparisons/tiktok-symphony-vs-meta-video-vs-amazon-video-ads/) - 2026 AI video ad tool comparison
 
 ## Fulfillment & Logistics
 
@@ -202,6 +212,7 @@
 - [Google March 2026 core update](https://www.vozai.net/en/seo/google-march-2026-core-update-ecommerce/) - 71% affiliate traffic drop analysis
 - [Google AI Overviews: 42% click loss](https://www.vozai.net/en/seo/ai-overviews-42-percent-click-loss/) - Impact analysis and seller strategies
 - [Zero-click search survival guide](https://www.vozai.net/en/seo/zero-click-search-ecommerce-seo/) - Adapting to declining organic clicks
+- [Google May 2026 core update](https://www.vozai.net/en/seo/google-may-2026-core-update-ecommerce/) - E-commerce volatility and diagnosing ranking loss vs zero-click cannibalization
 
 ### Agentic Commerce
 
@@ -212,6 +223,8 @@
 - [Perplexity Comet vs Amazon: Ninth Circuit hearing](https://www.vozai.net/en/seo/perplexity-comet-amazon-ninth-circuit-merchant-playbook/) - Merchant playbook for the May 15, 2026 federal hearing on buyer-side AI agents
 - [ChatGPT shopping pivot to discovery](https://www.vozai.net/en/seo/chatgpt-shopping-pivot-product-discovery-dtc-visibility/) - DTC visibility playbook after OpenAI pulled back from Instant Checkout
 - [Google Pay BNPL & UCP checkout on YouTube](https://www.vozai.net/en/ads-copy/google-pay-bnpl-ucp-youtube-checkout-2026/) - Affirm/Klarna in Google Pay, UCP checkout on YouTube Shopping Ads, Universal Cart rollout (GML 2026)
+- [Google Universal Cart goes live](https://www.vozai.net/en/seo/google-io-universal-cart-2026/) - One cart across Search, YouTube, and Gmail
+- [AI shopping channel showdown 2026](https://www.vozai.net/en/tool-comparisons/ai-shopping-channel-conversion-showdown-2026/) - ChatGPT vs Google AI Mode vs Perplexity vs Copilot by real conversion data
 
 ### AI Customer Service
 
